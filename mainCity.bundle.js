@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("city"),document.getElementById("temp"),document.getElementById("curr_con_ico"),document.getElementById("con-text"),document.getElementById("windspeed"),document.getElementById("feels"),document.getElementById("curr_humidity"),document.getElementById("arrow_ico")})();
