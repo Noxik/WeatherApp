@@ -10,3 +10,4 @@
 9. added localStorage for last chosen city and darkmode
 10. Responsive bug are fixed
 
+DEMO: https://noxik.github.io/WeatherApp/
