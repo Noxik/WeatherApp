@@ -1,4 +1,4 @@
-# WeatherApp - first API Project
+WeatherApp - first API Project
 1. created design for my WeatherApp using: https://dribbble.com/shots/8268096-Weather-Forecast-Design-Concept/attachments/622293?mode=media
 2. checked how api.weatherapi.com works (using console)
 3. created IIFE (Immediately Invoked Function Expression) for main city weather "warsaw"
